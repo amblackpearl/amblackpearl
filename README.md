@@ -1,20 +1,18 @@
 # 👋 Hi there, I'm amblackpearl!
 
 ## 🧑‍💻 About Me
-I'm a passionate software developer with a strong interest in web development, open-source contributions, and continuous learning. I enjoy solving complex problems and building scalable applications.
-
+I'm a passionate turning schematics into smart, real-world systems. Electronics Engineering with a strong interest in IoT, Automation System, Embedded System(Arduino & ESP32),  Circuit Design, and continuous learning.
 ## 💼 Professional Experience
-- **Software Developer** at [Your Current Company]
-  -
-
-- **Previous Role** at [Previous Company]
-  - 
+- **Internship** at PT. PLN Nusantara Power Unit Pembangkitan Brantas (PLTA Tulungagung), Tulungagung
+  -Performed preventive maintenance on critical power systems including transformers, jet coolers, and exciter systems.
+  -Conducted insulation resistance tests on transformers and generators using Megger.
+  -Executed resistance checks on motor governor protection system coils at Motor Control Centre (MCC).
+  -Over change the water cooler barrel on power generator.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, HTML, CSS, C++
-- **Frameworks/Libraries:** QT
-- **Databases:** -
-- **Tools:** Git
+- **Languages:** C++, HTML, Ladder PLC, CSS, JavaScript, Python
+- **Databases:** -Firebase, MySQL
+- **Tools:** Arduino IDE, KiCAD, Proteus, VSCode, CX-Programmer
 ## 🌱 Currently Learning
 - C++
 - Python
@@ -24,8 +22,8 @@ I'm a passionate software developer with a strong interest in web development, o
 
 ## 📫 How to Reach Me
 - **Email:** priyoadiwibowo28@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Twitter:** [Your Twitter Handle]
+- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/priyo-adi-wibowo/)
+- **Twitter:** [[Your Twitter Handle]](https://x.com/prawo_28)
 
 ## 📄 Portfolio
 Check out my portfolio [here](https://your-portfolio-url.com) to see some of my projects and work.
@@ -35,4 +33,3 @@ Feel free to reach out if you want to collaborate on a project, need help with s
 
 ---
 
-*Note: Replace placeholders like `[Your Current Company]`, `[Previous Company]`, `[your-email@example.com]`, and others with your actual details.*
