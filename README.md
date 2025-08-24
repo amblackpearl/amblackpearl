@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Priyo!
 
 ## 🧑‍💻 About Me
-I'm a passionate turning schematics into smart, real-world systems. Electronics Engineering with a strong interest in IoT, Automation System, Embedded System(Arduino & ESP32),  Circuit Design, and continuous learning.
+I'm a passionate turning schematics into smart, real-world systems. Electronics Engineering with a strong interest in IoT, Automation System, Embedded System(Atmega, Arduino & ESP32),  Circuit Design, and continuous learning.
 ## 💼 Professional Experience
 **PT. PLN Nusantara Power UP Brantas - PLTA Tulungagung**
 - *Electrical Engineering Intern*
@@ -11,12 +11,13 @@ I'm a passionate turning schematics into smart, real-world systems. Electronics 
     - Over change the water cooler barrel on power generator
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C++, HTML, Ladder PLC, CSS, JavaScript, Python
+- **Languages:** C++, PLC Ladder, HTML, CSS, JavaScript, Python
 - **Databases:** Firebase, MySQL
-- **Tools:** Arduino IDE, KiCAD, Proteus, VSCode, CX-Programmer
+- **Tools:** Arduino IDE, KiCAD, Proteus, VSCode, CX-Programmer, GitHub
 ## 🌱 Currently Learning
 - C++
 - Python
+- SCADA
 
 ## 📈 GitHub Stats
 ![amblackpearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=amblackpearl&show_icons=true&theme=radical)
@@ -27,7 +28,7 @@ I'm a passionate turning schematics into smart, real-world systems. Electronics 
 - **Twitter:** [Prawo_28](https://x.com/prawo_28)
 
 ## 📄 Portfolio
-Check out my portfolio [here](https://your-portfolio-url.com) to see some of my projects and work.
+Check out my portfolio [here](https://amblackpearl.github.io/portofolio/) to see some of my projects and work.
 
 ## 🤝 Let's Connect
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to say hi!
