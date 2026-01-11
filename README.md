@@ -1,12 +1,18 @@
 # 👋 Hi, I'm Priyo Adi Wibowo
+## 🚀 Electronics Engineer & IoT Enthusiast
 
-## 🚀 IoT & Embedded Systems Engineer
-
+---
 ## 🧑‍💻 About Me
 I'm a passionate turning schematics into smart, real-world systems. Electronics Engineering with a strong focus on **IoT systems, embedded programming, and industrial electronics**. I have hands-on experience designing, building, and testing **ESP32-based IoT solutions**, low-voltage electrical systems, and automation controls. Passionate about **Industry 4.0**, smart systems, and real-world engineering applications.
 
 ---
 
+## 📄 Portfolio & CV
+Check out my portfolio [here](https://amblackpearl.github.io/portofolio/) to see some of my projects and work.
+
+Check out my CV [here](https://github.com/amblackpearl/portofolio/blob/main/assets/pdf/CV_PRIYO%20ADI%20WIBOWO.pdf).
+
+---
 ## 🧠 Core Expertise
 
 - 🌐 **IoT System Development** (ESP32, sensor networks, wireless monitoring)
@@ -21,7 +27,7 @@ I'm a passionate turning schematics into smart, real-world systems. Electronics 
 ## 🛠️ Technical Skills
 
 **Embedded & IoT**  
-ESP32, Arduino Platform, PlatformIO, Sensor Integration, Automation Control
+ESP32, Arduino Platform, PlatformIO, Sensor Integration, Automation Control, Communication Protocol
 
 **Electronics & Control**  
 PCB Design & Fabrication, Circuit Design & Analysis, Instrumentation, Analog & Digital Systems, System Control
@@ -35,7 +41,7 @@ Low-Voltage Electrical Systems, Component Assembly & Testing, Preventive Mainten
 
 - **C++** – Embedded systems & IoT microcontroller programming
 - **PLC Ladder Logic** – OMRON (CX-Programmer)
-- **Web** – HTML, CSS, JavaScript (IoT dashboards & interfaces)
+- **Web Development** – HTML, CSS, JavaScript (IoT dashboards & interfaces)
 - **Python** – Basic scripting & automation
 
 ---
@@ -52,7 +58,6 @@ Low-Voltage Electrical Systems, Component Assembly & Testing, Preventive Mainten
 ## 🌱 Currently Learning
 - C++
 - Python
-- SCADA
 
 ---
 
@@ -66,16 +71,9 @@ Low-Voltage Electrical Systems, Component Assembly & Testing, Preventive Mainten
 
 ---
 
-## 📈 GitHub Stats
-![amblackpearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=amblackpearl&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 - **Email:** priyoadiwibowo28@gmail.com
 - **LinkedIn:** [Priyo Adi Wibowo](https://www.linkedin.com/in/priyo-adi-wibowo/)
-- **Twitter:** [Prawo_28](https://x.com/prawo_28)
-
-## 📄 Portfolio
-Check out my portfolio [here](https://amblackpearl.github.io/portofolio/) to see some of my projects and work.
 
 ⭐ *Open to opportunities in IoT Engineering, Embedded Systems, Automation, and Industrial Technology.*
 
