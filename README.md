@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priyo Adi Wibowo
+# 👋 Hi, I'm dibow
 ## 🚀 Electronics Engineer & IoT Enthusiast
 
 ---
