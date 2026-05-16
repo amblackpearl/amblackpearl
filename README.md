@@ -58,6 +58,7 @@ Low-Voltage Electrical Systems, Component Assembly & Testing, Preventive Mainten
 ## 🌱 Currently Learning
 - C++
 - Python
+- Dart
 
 ---
 
