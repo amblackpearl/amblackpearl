@@ -3,7 +3,7 @@
 <div align="center">
 <a href="#contacts">How to Reach me?
 </a> ·
-<a href="https://amblackpearl.github.io/portofolio/">Check out my portfolio!</a>
+<a href="https://priyoject.qzz.io/">Check out my portfolio!</a>
 
 </div>
 <br>
