@@ -27,6 +27,7 @@
 - **PCB Design & Circuit Analysis**
 - **Sensor Integration & Data Processing**
 - **Low-Voltage Electrical Systems & Testing**
+- **Web Development**
 
 ---
 
